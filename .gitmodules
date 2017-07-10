@@ -1,0 +1,3 @@
+[submodule "Whippet.jl"]
+	path = Whippet.jl
+	url = https://github.com/timbitz/Whippet.jl.git
